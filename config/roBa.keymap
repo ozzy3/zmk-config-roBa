@@ -43,21 +43,6 @@
             bindings = <&kp DOUBLE_QUOTES>;
             key-positions = <20 21>;
         };
-
-        com+sh+T {
-            bindings = <&kp LG(LS(T))>;
-            key-positions = <14 4>;
-        };
-
-        com+sh+4 {
-            bindings = <&kp LG(LS(NUMBER_4))>;
-            key-positions = <3 13>;
-        };
-
-        globe {
-            bindings = <&kp GLOBE>;
-            key-positions = <14 26>;
-        };
     };
 
     macros {
